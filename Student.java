@@ -9,6 +9,6 @@ public class Student {
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("Thanks for using My Application");
         System.out.println("Welcome to the jenkins");
-        System.out.println("Welcome to the Devops");
+        System.out.println("Welcome to the Devops and cloud");
     }
 }
